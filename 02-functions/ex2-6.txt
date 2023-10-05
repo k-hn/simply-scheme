@@ -1,4 +1,5 @@
-<u>one-arguments functions<u>
+one-arguments functions
+-----------------------
 butfirst
 butlast
 cos
@@ -16,6 +17,7 @@ sqrt
 vowel?
 
 2.6
+---
 count
 butfirst
 butlast

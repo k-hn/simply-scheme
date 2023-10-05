@@ -1,4 +1,5 @@
-<u>appearances<u>
+appearances
+-----------
 Description: accepts a value to look out for and a work. Returns the number of times value to look out for shows up
 Domain: sentence
 Range: number

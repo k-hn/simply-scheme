@@ -1,4 +1,5 @@
-<u>vowel?<u>
+vowel?
+------
 Description: accepts a character and determines if it is a vowel or not.
 Domain: word
 Range: boolean

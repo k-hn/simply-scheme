@@ -1,4 +1,5 @@
-<u>item<u>
+item
+----
 Description: Takes an a 1-based index and a sentence. Returns the value at the stated index
 Domain: number, sentence
 Range: word
