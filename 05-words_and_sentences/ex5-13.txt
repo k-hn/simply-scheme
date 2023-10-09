@@ -1,0 +1,3 @@
+''banana stands for (quote (quote banana))
+
+(first ''banana) -> (quote banana)
